@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.boxys {
+    margin-right: 30px;
+}
+.box {
+    width: 150px;
+    height: 150px;
+    background: gray;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+.box1 {
+    width: 150px;
+    height: 150px;
+    background: orange;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+.box2 {
+    width: 150px;
+    height: 150px;
+    background: blue;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+.box3 {
+    width: 150px;
+    height: 150px;
+    background: rgb(99, 197, 6);
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+.box4 {
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
